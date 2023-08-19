@@ -1,3 +1,5 @@
+![VisionScript logo](https://visionscript.dev/assets/full_logo.svg)
+
 # VisionScript Code Highlighter (JS)
 
 `visionscript-highlight.js` lets you highlight VisionScript code in the browser.
